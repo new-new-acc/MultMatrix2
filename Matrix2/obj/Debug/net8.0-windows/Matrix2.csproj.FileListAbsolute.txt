@@ -1,0 +1,16 @@
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\bin\Debug\net8.0-windows\Matrix2.exe
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\bin\Debug\net8.0-windows\Matrix2.deps.json
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\bin\Debug\net8.0-windows\Matrix2.runtimeconfig.json
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\bin\Debug\net8.0-windows\Matrix2.dll
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\bin\Debug\net8.0-windows\Matrix2.pdb
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.Form1.resources
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.csproj.GenerateResource.cache
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.AssemblyInfoInputs.cache
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.AssemblyInfo.cs
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.csproj.CoreCompileInputs.cache
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.dll
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\refint\Matrix2.dll
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.pdb
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\Matrix2.genruntimeconfig.cache
+C:\Users\hanyon\source\repos\Matrix2\Matrix2\obj\Debug\net8.0-windows\ref\Matrix2.dll
